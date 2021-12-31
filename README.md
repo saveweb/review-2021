@@ -34,3 +34,4 @@
 - [你好 2022(2021 年终总结) - Jiajun的编程随想](https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html)
 - [告别 2021 | ChungZH's Blog](https://blog.chungzh.cn/articles/goodbye2021/)
 - [我的 2021 — 251's Blog.](https://blog.251.sh/oh-my-2021)
+- [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)
