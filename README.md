@@ -3,6 +3,12 @@
 <!-- 此处待完善 -->
 想要添加您的年终总结？请发 Issue 或有能力者自行编辑 metadata.md 并发PR。
 
+本项目将长期维护（直到2023年初），因为[以往的经验](https://t.me/blogrsslist/269)告诉我——有些博主的年终总结可能要[拖拉个半年才写得完](https://idealclover.top/archives/627/)，还有些博主明明都年中了才写完了上一年的年终总结，又觉得不好意思而自己把文章发布时间改成年初，掩耳盗铃。有趣有趣……
+
+---
+
+https://t.me/blogrsslist/350
+
 - [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html)
 - [2021 · 抉择、未知、迷茫、恐惧 - 静かな森](https://innei.ren/notes/106)
 - [2021 – 2022 – 非理勿试](https://www.ntiy.com/1681.html)
@@ -16,8 +22,10 @@
 - [2021 年末回顧 - 一座島](https://island.shaform.com/zh/2021/12/29/2021-year-in-review/)
 - [2021 年终回顾 – EmacsTalk](https://emacstalk.github.io/post/2021-review/)
 - [2021 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2021.html)
+- [2021 年终总结 | ObservatoryX 天文觀測站](https://observatoryx.github.io/2021/12/20/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [2021 年终总结 | OneV's Den](https://onevcat.com/2021/12/2021-final/)
 - [2021 年终总结 | Usubeni Fantasy](https://ssshooter.com/2021-12-25-2021-summary/)
+- [2021 年终总结 | Vigorous Pro](https://www.wevg.org/archives/bye-2021/)
 - [2021 年终总结 | 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html)
 - [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)
 - [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)
@@ -54,6 +62,7 @@
 - [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/)
 - [年终总结 | 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/)
 - [当 2021 年的寒冬遇到疫情和离职 | 沈唁志](https://qq52o.me/2800.html)
+- [惶心博客 2021 年末总结 | 惶心博客](https://huangxin.dev/site-updates/2021-end-of-year-summary)
 - [我们该如何去解释这疯狂的一年？](https://feizhaojun.com/?p=3360)
 - [我的 2021 - Panda Home](https://old-panda.com/2021/12/31/my-2021/?utm_source=rss&utm_medium=rss&utm_campaign=my-2021)
 - [我的 2021 — 251's Blog.](https://blog.251.sh/oh-my-2021)
