@@ -1,6 +1,6 @@
 #2021年终总结
 
-<--! 此处待完善 -->
+<!-- 此处待完善 -->
 
 - [2021 – 2022 – 非理勿试](https://www.ntiy.com/1681.html)
 - [2021 – 2022 跨年博客 – Fatesinger](https://fatesinger.com/100710)
