@@ -49,3 +49,4 @@
 - [920.2021年的最后一天 - wys.me](https://www.wys.me/920.html)
 - [2021年的最后一篇文章 - 加菲猫的创客工坊](https://www.gaficat.com/posts/28ddd435.html)
 - [Last day of 2021 | Tianke Youke](http://jyzhu.top/2021/12/31/Last-day-of-2021/)
+- [2021年年终总结 – 7gugu's Blog](https://7gugu.com/index.php/2021/12/30/2021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
