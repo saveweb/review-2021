@@ -4,6 +4,7 @@ flag = 0
 markdown = """# 2021年终总结
 
 <!-- 此处待完善 -->
+想要添加您的年终总结？请发 Issue 或有能力者自行编辑 metadata.md 并发PR。
 """
 
 with open('metadata.md', 'r') as f:
