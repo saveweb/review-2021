@@ -1,6 +1,7 @@
 # 2021年终总结
 
 <!-- 此处待完善 -->
+想要添加您的年终总结？请发 Issue 或有能力者自行编辑 metadata.md 并发PR。
 
 - [2021 – 2022 – 非理勿试](https://www.ntiy.com/1681.html)
 - [2021 – 2022 跨年博客 – Fatesinger](https://fatesinger.com/100710)
