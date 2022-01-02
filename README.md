@@ -41,6 +41,7 @@ https://t.me/blogrsslist/350
 - [2021年终总结 - zu1k](https://lgf.im/posts/thinking/2021/)
 - [2021年终总结 | 四公子的剑](https://www.965.one/2021/12/30/2021year-end-summary/)
 - [2021年终总结 – Frank's Weblog](https://nyan.im/posts/5576.html)
+- [2021年终总结 – yearliny](https://yearliny.com/2021-annual-personal-summary/)
 - [2021总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2021year.html)
 - [2021我成长了🌈 – 幸吾有志](https://www.symbk.cn/life/622/)
 - [2021，再见；2022，你来了：生活的主动性 | 纬八路生活随笔集](http://www.weibalu.com/?p=4015)
