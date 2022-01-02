@@ -30,6 +30,7 @@ https://t.me/blogrsslist/350
 - [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)
 - [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)
 - [2021-年度回顧 | Hwchiu Learning Note](https://www.hwchiu.com/2021-review.html)
+- [2021年年终总结 | 小赖子的英国生活和资讯](https://justyy.com/archives/46394)
 - [2021年年终总结 – 7gugu's Blog](https://7gugu.com/index.php/2021/12/30/2021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [2021年底有心里话要说 - 王志勇的Blog](http://www.auiou.com/relevant/00001916.jsp)
 - [2021年总结 | ddadaal.me](https://ddadaal.me/articles/summary-for-2021/)
