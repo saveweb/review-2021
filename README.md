@@ -69,6 +69,7 @@ https://t.me/blogrsslist/350
 - [我的 2021 年总结 - 任峻宏的小站](https://renny.ren/ch/articles/33)
 - [我的 2021 年投资总结 - 深度投资笔记](https://deepinvest.org/post/2021/12/27/milestone-2021/)
 - [我的2021 · 构建我的被动收入](https://www.bmpi.dev/self/annual-summary/2021/)
+- [我的2021年 – 胡言胡语](https://husay.cc/4323.html)
 - [我的二零二一 – JiaYin's Life](https://imjiayin.com/4602)
 - [把2021丢进风里，扬着头笑着迈向2022！ - 生活 - 水清无鱼](https://bosir.cn/925.html)
 - [抓住2021的尾巴 | 灰常记忆](https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html)
