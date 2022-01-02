@@ -36,6 +36,7 @@ https://t.me/blogrsslist/350
 - [2021年总结 | ddadaal.me](https://ddadaal.me/articles/summary-for-2021/)
 - [2021年我最爱的三个产品 - ice @ yaya](https://blog.yaya.pm/2021-fav-products)
 - [2021年概览 - Elizen](https://elizen.me/posts/2021/12/2022-happy-new-year/)
+- [2021年的小总结 | FZDSLR](http://blog.fzdslr.cn/2022-01-01-A_sum_of_2021.html)
 - [2021年的最后一篇文章 - 加菲猫的创客工坊](https://www.gaficat.com/posts/28ddd435.html)
 - [2021年终总结 - @Lenciel](https://lenciel.com/2021/12/last-day-in-2021/)
 - [2021年终总结 - Joe’s Blog](https://hijiangtao.github.io/2021/12/29/Letter-to-2021/)
