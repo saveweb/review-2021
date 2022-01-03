@@ -6,7 +6,7 @@ markdown = """# 2021年终总结
 <!-- 此处待完善 -->
 想要添加您的年终总结？请发 Issue 或有能力者自行编辑 metadata.md 并发PR。
 
-目前已收集70+篇年终总结。数据来源: [『saveweb/rss-list: 独立博客&播客全订阅计划！』](https://github.com/saveweb/rss-list)，持续收集中，部分数据(30篇)同步自[友台：『@FindBlog』](https://t.me/FindBlog/52)。
+目前已收集80+篇年终总结。数据来源: [『saveweb/rss-list: 独立博客&播客全订阅计划！』](https://github.com/saveweb/rss-list)，持续收集中，部分数据(30篇)同步自[友台：『@FindBlog』](https://t.me/FindBlog/52)。
 
 本项目将长期维护（直到2023年初），因为[以往的经验](https://t.me/blogrsslist/269)告诉我——有些博主的年终总结可能要[拖拉个半年才写得完](https://idealclover.top/archives/627/)，还有些博主明明都年中了才写完了上一年的年终总结，又觉得不好意思而自己把文章发布时间改成年初，掩耳盗铃。有趣有趣……
 
