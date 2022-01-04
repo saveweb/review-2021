@@ -42,6 +42,7 @@
 - [2021 年终总结 | Usubeni Fantasy](https://ssshooter.com/2021-12-25-2021-summary/)
 - [2021 年终总结 | Vigorous Pro](https://www.wevg.org/archives/bye-2021/)
 - [2021 年终总结 | 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html)
+- [2021 年终总结-JackLee](https://jacklee.club/%E6%80%BB%E7%BB%93/2021-12-31-2021%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html)
 - [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)
 - [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)
 - [2021-年度回顧 | Hwchiu Learning Note](https://www.hwchiu.com/2021-review.html)
