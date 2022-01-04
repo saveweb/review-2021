@@ -47,6 +47,7 @@
 [2021，再见；2022，你来了：生活的主动性 | 纬八路生活随笔集](http://www.weibalu.com/?p=4015)
 [920.2021年的最后一天 - wys.me](https://www.wys.me/920.html)
 [Debug客栈 2021 年度总结 - Debug客栈](https://www.debuginn.cn/7284.html)
+[Hello NEW BPM 2022 – 奶冰の冷藏室](https://milkice.me/2022/01/01/2021-yearly-summanry/)
 [Last day of 2021 | Tianke Youke](http://jyzhu.top/2021/12/31/Last-day-of-2021/)
 [[青空之蓝-2021] - 远望 | 青空之蓝](https://blog.ixk.me/post/my-2021-year-end-summary)
 [不是总结的总结 - 小王子](https://www.wanghao.me/bushizongjiedezongjie.html)
@@ -90,4 +91,3 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)
-[Hello NEW BPM 2022 – 奶冰の冷藏室](https://milkice.me/2022/01/01/2021-yearly-summanry/)
