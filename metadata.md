@@ -1,3 +1,4 @@
+[小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv)
 [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html)
 [2021 · 抉择、未知、迷茫、恐惧 - 静かな森](https://innei.ren/notes/106)
 [2021 – 2022 – 非理勿试](https://www.ntiy.com/1681.html)
