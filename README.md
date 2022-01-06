@@ -27,7 +27,7 @@
 - [2021 岁末总结 - 苏洋博客](https://soulteary.com/2021/12/31/2021-year-end-summary.html)485
 - [2021 年个人总结 · 唐巧的博客](https://blog.devtang.com/2022/01/01/2021-summary/)115
 - [2021 年年终总结 - Ryan4yin's Space](https://ryan4yin.space/posts/2021-summary/)1121
-- [2021 年年终总结 | 白宦成](https://www.ixiqin.com/2021/12/2021-year-end-summary/)
+- [2021 年年终总结 | 白宦成](https://www.ixiqin.com/2021/12/2021-year-end-summary/)150
 - [2021 年度总结 - Battle Le](https://battlele.com/2021-review/)548
 - [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/)429
 - [2021 年度总结 - 漩涡的博客](https://xuanwo.io/2021/11-2021-review/)1101
