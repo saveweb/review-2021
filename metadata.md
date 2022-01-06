@@ -44,6 +44,7 @@
 [2021年终总结 – Frank's Weblog](https://nyan.im/posts/5576.html)
 [2021年终总结 – yearliny](https://yearliny.com/2021-annual-personal-summary/)
 [2021年终总结：你所热爱的，就是你的生活 | Easton Man's Blog](https://blog.eastonman.com/blog/2022/01/end-of-year/)
+[2021年终非总结 | 鱼有愚见](https://blog.acwinds.com/2021/12/29/2021-summary/)
 [2021总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2021year.html)
 [2021我成长了🌈 – 幸吾有志](https://www.symbk.cn/life/622/)
 [2021，再见；2022，你来了：生活的主动性 | 纬八路生活随笔集](http://www.weibalu.com/?p=4015)
@@ -98,4 +99,3 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)
-[2021年终非总结 | 鱼有愚见](https://blog.acwinds.com/2021/12/29/2021-summary/)
