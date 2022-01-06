@@ -73,6 +73,7 @@
 - [Debug客栈 2021 年度总结 - Debug客栈](https://www.debuginn.cn/7284.html)
 - [Hello NEW BPM 2022 – 奶冰の冷藏室](https://milkice.me/2022/01/01/2021-yearly-summanry/)
 - [Last day of 2021 | Tianke Youke](http://jyzhu.top/2021/12/31/Last-day-of-2021/)
+- [State of 2021 | DonaldxDocs](http://article.donaldxdonald.xyz/articles/State-of-2021.html)
 - [[青空之蓝-2021] - 远望 | 青空之蓝](https://blog.ixk.me/post/my-2021-year-end-summary)
 - [不是总结的总结 - 小王子](https://www.wanghao.me/bushizongjiedezongjie.html)
 - [二〇二一之观影记录 | 叶星优酸乳](https://weiyexing.ml/posts/film-record-2021/)
