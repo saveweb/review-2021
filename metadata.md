@@ -4,6 +4,7 @@
 [2021 – 2022 跨年博客 – Fatesinger](https://fatesinger.com/100710)
 [2021 岁末总结 - 苏洋博客](https://soulteary.com/2021/12/31/2021-year-end-summary.html)
 [2021 年个人总结 · 唐巧的博客](https://blog.devtang.com/2022/01/01/2021-summary/)
+[2021 年年终总结 - Ryan4yin's Space](https://ryan4yin.space/posts/2021-summary/)
 [2021 年年终总结 | 白宦成](https://www.ixiqin.com/2021/12/2021-year-end-summary/)
 [2021 年度总结 - Battle Le](https://battlele.com/2021-review/)
 [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/)
@@ -99,4 +100,3 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)
-[2021 年年终总结 - Ryan4yin's Space](https://ryan4yin.space/posts/2021-summary/)
