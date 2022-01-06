@@ -95,6 +95,7 @@
 - [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv)
 - [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/)
 - [年终总结 | 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/)
+- [年终总结2021 | [米随随] s5s5](https://s5s5.me/4029)
 - [年终总结：2021年的一些回顾和2022年的一些小规划 - 程沛权 - 养了三只猫](https://chengpeiquan.com/article/2021-year-end-summary.html#%E5%8F%82%E4%B8%8E%E6%89%B6%E8%B4%AB)
 - [当 2021 年的寒冬遇到疫情和离职 | 沈唁志](https://qq52o.me/2800.html)
 - [惶心博客 2021 年末总结 | 惶心博客](https://huangxin.dev/site-updates/2021-end-of-year-summary)
