@@ -101,4 +101,4 @@
 [被灰山压垮，然后漂浮——2021年年终总结 – Drawoceans的博客](https://blog.drawoceans.com/myself/562/)778
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
-[间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)
+[间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
