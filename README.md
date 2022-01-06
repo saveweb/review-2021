@@ -89,6 +89,7 @@
 - [匆匆忙忙的2021 | LarsCheng](https://www.larscheng.com/2020-summary/)
 - [告别 2021 | ChungZH's Blog](https://blog.chungzh.cn/articles/goodbye2021/)
 - [回顾 2021 · Android Performance](https://androidperformance.com/2022/01/03/2021-Review/)
+- [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv)
 - [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/)
 - [年终总结 | 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/)
 - [年终总结：2021年的一些回顾和2022年的一些小规划 - 程沛权 - 养了三只猫](https://chengpeiquan.com/article/2021-year-end-summary.html#%E5%8F%82%E4%B8%8E%E6%89%B6%E8%B4%AB)
