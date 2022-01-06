@@ -34,7 +34,6 @@
 [2021年总结 | ddadaal.me](https://ddadaal.me/articles/summary-for-2021/)
 [2021年我最爱的三个产品 - ice @ yaya](https://blog.yaya.pm/2021-fav-products)
 [2021年概览 - Elizen](https://elizen.me/posts/2021/12/2022-happy-new-year/)
-[回顾二零二一 | 三无青年](https://www.duanxiansen.com/979.html)958
 [2021年的小总结 | FZDSLR](http://blog.fzdslr.cn/2022-01-01-A_sum_of_2021.html)
 [2021年的最后一篇文章 - 加菲猫的创客工坊](https://www.gaficat.com/posts/28ddd435.html)
 [2021年终总结 - @Lenciel](https://lenciel.com/2021/12/last-day-in-2021/)
@@ -70,6 +69,7 @@
 [匆匆忙忙的2021 | LarsCheng](https://www.larscheng.com/2020-summary/)
 [告别 2021 | ChungZH's Blog](https://blog.chungzh.cn/articles/goodbye2021/)
 [回顾 2021 · Android Performance](https://androidperformance.com/2022/01/03/2021-Review/)1085
+[回顾二零二一 | 三无青年](https://www.duanxiansen.com/979.html)958
 [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv)
 [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/)
 [年终总结 | 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/)
