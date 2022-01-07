@@ -86,6 +86,7 @@
 - [二〇二一，还好 :: 木木木木木](https://immmmm.com/right-so-so-2021/)77
 - [二零二一年终总结 - 吕大卫的官方网站](https://lvdawei.com/post/2021-summary/)50
 - [二零二一年，过眼云烟 – 红灯博客](http://www.hdgogogo.com/4159)1102
+- [人生浪费指南 | 2021年终总结 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/ren-sheng-lang-fei-zhi-nan-|-2021nian-zhong-zong-jie)
 - [你好 2022(2021 年终总结) - Jiajun的编程随想](https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html)146
 - [你好，这是我的2021 - 梦幻辰风](https://www.mhcf.net/1143.html)
 - [再见，2021 —— 我的 2021 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2021/)1029
