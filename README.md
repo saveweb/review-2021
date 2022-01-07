@@ -47,6 +47,7 @@
 - [2021 年终总结 | 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html)360
 - [2021 年终总结-JackLee](https://jacklee.club/%E6%80%BB%E7%BB%93/2021-12-31-2021%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html)
 - [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)243
+- [2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)
 - [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)32
 - [2021-年度回顧 | Hwchiu Learning Note](https://www.hwchiu.com/2021-review.html)352
 - [2021再见，2022你好！——年终总结 - 忆梦小站](https://www.onyi.net/archives/434.html)913
