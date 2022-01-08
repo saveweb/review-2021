@@ -44,6 +44,7 @@
 [2021年终总结 | 四公子的剑](https://www.965.one/2021/12/30/2021year-end-summary/)238
 [2021年终总结 – Frank's Weblog](https://nyan.im/p/2021-year-in-review)735
 [2021年终总结 – yearliny](https://yearliny.com/2021-annual-personal-summary/)1116
+[2021年终总结，向着2022前进 | 屹铭说](https://www.iccat.cn/2022/01/08/newyear.html)
 [2021年终总结：你所热爱的，就是你的生活 | Easton Man's Blog](https://blog.eastonman.com/blog/2022/01/end-of-year/)784
 [2021年终非总结 | 鱼有愚见](https://blog.acwinds.com/2021/12/29/2021-summary/)1120
 [2021总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2021year.html)1078
@@ -106,4 +107,3 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021年终总结，向着2022前进 | 屹铭说](https://www.iccat.cn/2022/01/08/newyear.html)
