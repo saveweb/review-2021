@@ -107,3 +107,4 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[Goodbye, My 2021 | MlgmXyysd 的猫窝](https://www.neko.ink/2021/12/31/goodbye-my-2021/)
