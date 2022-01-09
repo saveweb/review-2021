@@ -10,7 +10,7 @@
 [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/)429
 [2021 年度总结 - 漩涡的博客](https://xuanwo.io/2021/11-2021-review/)1101
 [2021 年度记录 | YeungYeah 的乱写地](https://scottyeung.top/2022/record-of-2021/)265
-[2021 年总结 – 竹炉山房](https://synyan.cn/t/38681/)
+[2021 年总结 – 竹炉山房](https://synyan.cn/t/38681/)1125
 [2021 年我读过的书 | wzyboy’s blog](https://wzyboy.im/post/1462.html)337
 [2021 年末回顧 - 一座島](https://island.shaform.com/zh/2021/12/29/2021-year-in-review/)461
 [2021 年终回顾 – EmacsTalk](https://emacstalk.github.io/post/2021-review/)982
@@ -19,11 +19,11 @@
 [2021 年终总结 | ObservatoryX 天文觀測站](https://observatoryx.github.io/2021/12/20/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 [2021 年终总结 | OneV's Den](https://onevcat.com/2021/12/2021-final/)116
 [2021 年终总结 | Usubeni Fantasy](https://ssshooter.com/2021-12-25-2021-summary/)158
-[2021 年终总结 | Vigorous Pro](https://www.wevg.org/archives/bye-2021/)
+[2021 年终总结 | Vigorous Pro](https://www.wevg.org/archives/bye-2021/)1115
 [2021 年终总结 | 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html)360
 [2021 年终总结-JackLee](https://jacklee.club/%E6%80%BB%E7%BB%93/2021-12-31-2021%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html)
 [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)243
-[2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)
+[2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
 [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)32
 [2021-年度回顧 | Hwchiu Learning Note](https://www.hwchiu.com/2021-review.html)352
 [2021再见，2022你好！——年终总结 - 忆梦小站](https://www.onyi.net/archives/434.html)913
@@ -52,21 +52,21 @@
 [2021，再见；2022，你来了：生活的主动性 | 纬八路生活随笔集](http://www.weibalu.com/?p=4015)1103
 [920.2021年的最后一天 - wys.me](https://www.wys.me/920.html)1027
 [Debug客栈 2021 年度总结 - Debug客栈](https://www.debuginn.cn/7284.html)88
-[Goodbye, My 2021 | MlgmXyysd 的猫窝](https://www.neko.ink/2021/12/31/goodbye-my-2021/)
+[Goodbye, My 2021 | MlgmXyysd 的猫窝](https://www.neko.ink/2021/12/31/goodbye-my-2021/)1126
 [Hello NEW BPM 2022 – 奶冰の冷藏室](https://milkice.me/2022/01/01/2021-yearly-summanry/)1118
 [Last day of 2021 | Tianke Youke](http://jyzhu.top/2021/12/31/Last-day-of-2021/)200
 [State of 2021 | DonaldxDocs](http://article.donaldxdonald.xyz/articles/State-of-2021.html)
 [[青空之蓝-2021] - 远望 | 青空之蓝](https://blog.ixk.me/post/my-2021-year-end-summary)228
 [一个普通程序员的2021 ｜ George's Blog](https://georgech2.github.io/#/posts/8)
-[不是总结的总结 - 小王子](https://www.wanghao.me/bushizongjiedezongjie.html)
+[不是总结的总结 - 小王子](https://www.wanghao.me/bushizongjiedezongjie.html)1108
 [二〇二一之观影记录 | 叶星优酸乳](https://weiyexing.ml/posts/film-record-2021/)689
 [二〇二一之读书记录 | 叶星优酸乳](https://weiyexing.ml/posts/read-record-2021/)689
 [二〇二一，还好 :: 木木木木木](https://immmmm.com/right-so-so-2021/)77
 [二零二一年终总结 - 吕大卫的官方网站](https://lvdawei.com/post/2021-summary/)50
 [二零二一年，过眼云烟 – 红灯博客](http://www.hdgogogo.com/4159)1102
-[人生浪费指南 | 2021年终总结 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/ren-sheng-lang-fei-zhi-nan-|-2021nian-zhong-zong-jie)
+[人生浪费指南 | 2021年终总结 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/ren-sheng-lang-fei-zhi-nan-|-2021nian-zhong-zong-jie)1127
 [你好 2022(2021 年终总结) - Jiajun的编程随想](https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html)146
-[你好，这是我的2021 - 梦幻辰风](https://www.mhcf.net/1143.html)
+[你好，这是我的2021 - 梦幻辰风](https://www.mhcf.net/1143.html)1128
 [再见，2021 —— 我的 2021 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2021/)1029
 [写在2021年的最后一天 • 李子白了](https://www.mbcao.com/farewell-or-beginning/)856
 [写在2021最后一天 | 公子府](https://www.gongzi.org/hello-2022.html)1104
@@ -75,14 +75,14 @@
 [告别 2021 | ChungZH's Blog](https://blog.chungzh.cn/articles/goodbye2021/)379
 [回顾 2021 · Android Performance](https://androidperformance.com/2022/01/03/2021-Review/)1085
 [回顾二零二一 | 三无青年](https://www.duanxiansen.com/979.html)958
-[在远方，这是小谢的2021~ - 小谢在努力](https://www.xxc520.cn/archives/27/)
+[在远方，这是小谢的2021~ - 小谢在努力](https://www.xxc520.cn/archives/27/)1129
 [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv)
 [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/)398
 [年终总结 | 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/)918
-[年终总结2021 | [米随随] s5s5](https://s5s5.me/4029)
+[年终总结2021 | [米随随] s5s5](https://s5s5.me/4029)1130
 [年终总结：2021年的一些回顾和2022年的一些小规划 - 程沛权 - 养了三只猫](https://chengpeiquan.com/article/2021-year-end-summary.html#%E5%8F%82%E4%B8%8E%E6%89%B6%E8%B4%AB)686
 [当 2021 年的寒冬遇到疫情和离职 | 沈唁志](https://qq52o.me/2800.html)722
-[惶心博客 2021 年末总结 | 惶心博客](https://huangxin.dev/site-updates/2021-end-of-year-summary)
+[惶心博客 2021 年末总结 | 惶心博客](https://huangxin.dev/site-updates/2021-end-of-year-summary)1113
 [我们该如何去解释这疯狂的一年？](https://feizhaojun.com/?p=3360)404
 [我的 2021 - Panda Home](https://old-panda.com/2021/12/31/my-2021/?utm_source=rss&utm_medium=rss&utm_campaign=my-2021)214
 [我的 2021 — 251's Blog.](https://blog.251.sh/oh-my-2021)552
