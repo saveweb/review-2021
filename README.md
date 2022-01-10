@@ -50,6 +50,7 @@
 - [2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
 - [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)32
 - [2021-年度回顧 | Hwchiu Learning Note](https://www.hwchiu.com/2021-review.html)352
+- [2021-年终总结 | Damao](https://damao2250.github.io/2021/12/31/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)1132
 - [2021再见，2022你好！——年终总结 - 忆梦小站](https://www.onyi.net/archives/434.html)913
 - [2021年年终总结 | 小赖子的英国生活和资讯](https://justyy.com/archives/46394)793
 - [2021年年终总结 – 7gugu's Blog](https://7gugu.com/index.php/2021/12/30/2021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)1110
