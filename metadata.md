@@ -108,3 +108,4 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[2021-年终总结 | Damao](https://damao2250.github.io/2021/12/31/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)1132
