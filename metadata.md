@@ -110,3 +110,7 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[2021 总结 | 犀利豆的博客](https://xilidou.com/2022/01/01/2021/)172
+[流水账式的2021总结 - 不方思](https://irr.ink/2021/2QBR504/)994
+[2021年，无妄之年 - winegrower | 种葡萄并酿酒的人](http://www.winegrower.cn/archives/416/)838
+[2021 年总结和 2022 年计划 - buzhou.blog](https://buzhou.typlog.io/2022jihua)1119
