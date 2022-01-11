@@ -35,6 +35,7 @@
 - [2021 年度总结 - 漩涡的博客](https://xuanwo.io/2021/11-2021-review/)1101
 - [2021 年度记录 | YeungYeah 的乱写地](https://scottyeung.top/2022/record-of-2021/)265
 - [2021 年总结 – 竹炉山房](https://synyan.cn/t/38681/)1125
+- [2021 年总结和 2022 年计划 - buzhou.blog](https://buzhou.typlog.io/2022jihua)1119
 - [2021 年我读过的书 | wzyboy’s blog](https://wzyboy.im/post/1462.html)337
 - [2021 年末回顧 - 一座島](https://island.shaform.com/zh/2021/12/29/2021-year-in-review/)461
 - [2021 年终回顾 – EmacsTalk](https://emacstalk.github.io/post/2021-review/)982
@@ -48,6 +49,7 @@
 - [2021 年终总结-JackLee](https://jacklee.club/%E6%80%BB%E7%BB%93/2021-12-31-2021%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html)
 - [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)243
 - [2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
+- [2021 总结 | 犀利豆的博客](https://xilidou.com/2022/01/01/2021/)172
 - [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)32
 - [2021-年度回顧 | Hwchiu Learning Note](https://www.hwchiu.com/2021-review.html)352
 - [2021-年终总结 | Damao](https://damao2250.github.io/2021/12/31/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)1132
@@ -72,6 +74,7 @@
 - [2021年终总结，向着2022前进 | 屹铭说](https://www.iccat.cn/2022/01/08/newyear.html)
 - [2021年终总结：你所热爱的，就是你的生活 | Easton Man's Blog](https://blog.eastonman.com/blog/2022/01/end-of-year/)784
 - [2021年终非总结 | 鱼有愚见](https://blog.acwinds.com/2021/12/29/2021-summary/)1120
+- [2021年，无妄之年 - winegrower | 种葡萄并酿酒的人](http://www.winegrower.cn/archives/416/)838
 - [2021总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2021year.html)1078
 - [2021我成长了🌈 – 幸吾有志](https://www.symbk.cn/life/622/)961
 - [2021，再见；2022，你来了：生活的主动性 | 纬八路生活随笔集](http://www.weibalu.com/?p=4015)1103
@@ -126,6 +129,7 @@
 - [挑战2022 | CHEGVA](https://chegva.com/4987.html)414
 - [时光痕迹：2021 年总结 | Reimu's blog](https://blog.k8s.li/2021.html)284
 - [未命名丨2021-2022 - RobotKang](https://robotkang.cc/22120.html)748
+- [流水账式的2021总结 - 不方思](https://irr.ink/2021/2QBR504/)994
 - [珍珠之歌——我的2021总结 | 风与牧歌](https://blog.besscroft.com/life/2021/summary2021/)946
 - [留在2021的最后一点文字 - 橘夜庭 | 霂森西 | 桜玲桉](https://musenxi.com/archives/2021-end.html)13
 - [致2021的我们 – 非礼勿言](https://feiliwuyan.com/to-our-2021/)541
