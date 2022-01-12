@@ -115,3 +115,9 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[2021年程序人生 | 忘忧的小站](https://wangyou233.wang/archives/75)1067
+[小日子2021 - 水八口的冥想盆](https://blog.shuiba.co/colourful-days-2021)462
+[胡言乱语2021 - 水八口的冥想盆](https://blog.shuiba.co/crazy-words-2021)462
+[2021年终总结 | KuangjuX(狂且)](http://blog.kuangjux.top/2022/01/11/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)716
+[2021年度关键词总结：磨练 - 笨方法学写作](https://www.cnfeat.com/blog/2022/01/10/letter2021/)57
+[Last day of 2021 | Tianke Youke](https://jyzhu.top/Last-day-of-2021/)200
