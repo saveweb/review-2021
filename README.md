@@ -109,6 +109,7 @@
 - [回顾 2021 · Android Performance](https://androidperformance.com/2022/01/03/2021-Review/)1085
 - [回顾二零二一 | 三无青年](https://www.duanxiansen.com/979.html)958
 - [在远方，这是小谢的2021~ - 小谢在努力](https://www.xxc520.cn/archives/27/)1129
+- [夜航船——2021年终总结 | 薇拉航线](https://www.zuozuovera.com/archives/1774/)1138
 - [好久不见，又是新年 | 见字如面](https://hiwannz.com/archives/672)179
 - [小日子2021 - 水八口的冥想盆](https://blog.shuiba.co/colourful-days-2021)462
 - [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv)
