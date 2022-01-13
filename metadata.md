@@ -122,3 +122,9 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[2022年新博客第一篇文暨个人2021年总结 - Aicsukの世界](https://www.aicsuk.moe/notes/1)512
+[2021 年总结 | 吴润写字的地方](http://www.wu.run/2021/12/31/2021-summary/)1018
+[2021 « bang’s blog](http://blog.cnbang.net/living/3739/)128
+[2021年度总结 - 咕咕三原小窝](https://xn--ehqz9kbvaa.wang/archives/861.html)849
+[2021 总结 – 桑弧蓬矢射四方 – iphyer's Blog Website](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
+[Life Sailor » 2021我最大的收获](https://www.lifesailor.me/archives/2794.html)876
