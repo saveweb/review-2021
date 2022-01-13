@@ -1,4 +1,5 @@
 [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html)403
+[2021 « bang’s blog](http://blog.cnbang.net/living/3739/)128
 [2021 · 抉择、未知、迷茫、恐惧 - 静かな森](https://innei.ren/notes/106)286
 [2021 – 2022 – 非理勿试](https://www.ntiy.com/1681.html)1039
 [2021 – 2022 跨年博客 – Fatesinger](https://fatesinger.com/100710)1107
@@ -10,6 +11,7 @@
 [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/)429
 [2021 年度总结 - 漩涡的博客](https://xuanwo.io/2021/11-2021-review/)1101
 [2021 年度记录 | YeungYeah 的乱写地](https://scottyeung.top/2022/record-of-2021/)265
+[2021 年总结 | 吴润写字的地方](http://www.wu.run/2021/12/31/2021-summary/)1018
 [2021 年总结 – 竹炉山房](https://synyan.cn/t/38681/)1125
 [2021 年总结和 2022 年计划 - buzhou.blog](https://buzhou.typlog.io/2022jihua)1119
 [2021 年我读过的书 | wzyboy’s blog](https://wzyboy.im/post/1462.html)337
@@ -26,6 +28,7 @@
 [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)243
 [2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
 [2021 总结 | 犀利豆的博客](https://xilidou.com/2022/01/01/2021/)172
+[2021 总结 – 桑弧蓬矢射四方 – iphyer's Blog Website](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
 [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)32
 [2021-年度回顧 | Hwchiu Learning Note](https://www.hwchiu.com/2021-review.html)352
 [2021-年终总结 | Damao](https://damao2250.github.io/2021/12/31/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)1132
@@ -36,6 +39,7 @@
 [2021年底有心里话要说 - 王志勇的Blog](http://www.auiou.com/relevant/00001916.jsp)1060
 [2021年度关键词总结：磨练 - 笨方法学写作](https://www.cnfeat.com/blog/2022/01/10/letter2021/)57
 [2021年度总结 - Jun's Blog](https://www.junz.org/post/2021_year_summary/)725
+[2021年度总结 - 咕咕三原小窝](https://xn--ehqz9kbvaa.wang/archives/861.html)849
 [2021年总结 | ddadaal.me](https://ddadaal.me/articles/summary-for-2021/)400
 [2021年我最爱的三个产品 - ice @ yaya](https://blog.yaya.pm/2021-fav-products)1109
 [2021年概览 - Elizen](https://elizen.me/posts/2021/12/2022-happy-new-year/)534
@@ -57,12 +61,14 @@
 [2021总结 - 玉明-风起于青萍之末](https://xdym11235.com/archives/2021year.html)1078
 [2021我成长了🌈 – 幸吾有志](https://www.symbk.cn/life/622/)961
 [2021，再见；2022，你来了：生活的主动性 | 纬八路生活随笔集](http://www.weibalu.com/?p=4015)1103
+[2022年新博客第一篇文暨个人2021年总结 - Aicsukの世界](https://www.aicsuk.moe/notes/1)512
 [920.2021年的最后一天 - wys.me](https://www.wys.me/920.html)1027
 [Debug客栈 2021 年度总结 - Debug客栈](https://www.debuginn.cn/7284.html)88
 [Goodbye, My 2021 | MlgmXyysd 的猫窝](https://www.neko.ink/2021/12/31/goodbye-my-2021/)1126
 [Hello NEW BPM 2022 – 奶冰の冷藏室](https://milkice.me/2022/01/01/2021-yearly-summanry/)1118
 [Last day of 2021 | Tianke Youke](http://jyzhu.top/2021/12/31/Last-day-of-2021/)200
 [Last day of 2021 | Tianke Youke](https://jyzhu.top/Last-day-of-2021/)200
+[Life Sailor » 2021我最大的收获](https://www.lifesailor.me/archives/2794.html)876
 [State of 2021 | DonaldxDocs](http://article.donaldxdonald.xyz/articles/State-of-2021.html)
 [[青空之蓝-2021] - 远望 | 青空之蓝](https://blog.ixk.me/post/my-2021-year-end-summary)228
 [⏳请回答2021 - 柳十七的小宇宙](https://liushiqi.xyz/zawen/134.html)545
@@ -122,9 +128,3 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2022年新博客第一篇文暨个人2021年总结 - Aicsukの世界](https://www.aicsuk.moe/notes/1)512
-[2021 年总结 | 吴润写字的地方](http://www.wu.run/2021/12/31/2021-summary/)1018
-[2021 « bang’s blog](http://blog.cnbang.net/living/3739/)128
-[2021年度总结 - 咕咕三原小窝](https://xn--ehqz9kbvaa.wang/archives/861.html)849
-[2021 总结 – 桑弧蓬矢射四方 – iphyer's Blog Website](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
-[Life Sailor » 2021我最大的收获](https://www.lifesailor.me/archives/2794.html)876
