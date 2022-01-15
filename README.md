@@ -107,6 +107,7 @@
 - [你好 2022(2021 年终总结) - Jiajun的编程随想](https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html)146
 - [你好，这是我的2021 - 梦幻辰风](https://www.mhcf.net/1143.html)1128
 - [再见，2021 —— 我的 2021 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2021/)1029
+- [写在 2021 年末](https://caos.me/2021)449
 - [写在2021年的最后一天 • 李子白了](https://www.mbcao.com/farewell-or-beginning/)856
 - [写在2021最后一天 | 公子府](https://www.gongzi.org/hello-2022.html)1104
 - [剧变中的2021-一个中年工程师的年终总结 | Mobility](https://lichuanyang.top/posts/2345/)281
