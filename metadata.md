@@ -128,3 +128,4 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[写在 2021 年末](https://caos.me/2021)449
