@@ -132,3 +132,4 @@
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
 [年度报告 - 2021 | 远方 - FlyingSky's Blog](https://blog.fsky7.com/archives/218/)
 [我走过的2021 – 林海草原](https://lhcy.org/archives/176.html)658
+[2021 年度总结 | mokeyjay - 超能小紫](https://www.mokeyjay.com/archives/3085)779
