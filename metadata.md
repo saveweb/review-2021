@@ -134,3 +134,4 @@
 [我走过的2021 – 林海草原](https://lhcy.org/archives/176.html)658
 [2021 年度总结 | mokeyjay - 超能小紫](https://www.mokeyjay.com/archives/3085)779
 [2021年总结 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/645)432
+[我的2021 · ZMonster's Blog](https://www.zmonster.me/2022/01/15/annual-summary-of-2021.html)456
