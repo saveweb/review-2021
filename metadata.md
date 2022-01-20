@@ -133,3 +133,4 @@
 [年度报告 - 2021 | 远方 - FlyingSky's Blog](https://blog.fsky7.com/archives/218/)
 [我走过的2021 – 林海草原](https://lhcy.org/archives/176.html)658
 [2021 年度总结 | mokeyjay - 超能小紫](https://www.mokeyjay.com/archives/3085)779
+[2021年总结 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/645)432
