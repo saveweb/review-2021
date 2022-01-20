@@ -135,3 +135,5 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[草草的用废话写完了根本不存在的2021年年终总结 | lijiakaijun](https://blog.lijiakaijun.cyou/posts/64568.html)759
+[认真的写完了似乎存在的2021年年度总结 | lijiakaijun](https://blog.lijiakaijun.cyou/posts/33838.html)759
