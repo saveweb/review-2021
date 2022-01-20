@@ -34,6 +34,7 @@
 - [2021 年度总结 - Battle Le](https://battlele.com/2021-review/)548
 - [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/)429
 - [2021 年度总结 - 漩涡的博客](https://xuanwo.io/2021/11-2021-review/)1101
+- [2021 年度总结 | mokeyjay - 超能小紫](https://www.mokeyjay.com/archives/3085)779
 - [2021 年度记录 | YeungYeah 的乱写地](https://scottyeung.top/2022/record-of-2021/)265
 - [2021 年总结 | 吴润写字的地方](http://www.wu.run/2021/12/31/2021-summary/)1018
 - [2021 年总结 – 竹炉山房](https://synyan.cn/t/38681/)1125
@@ -64,6 +65,7 @@
 - [2021年度关键词总结：磨练 - 笨方法学写作](https://www.cnfeat.com/blog/2022/01/10/letter2021/)57
 - [2021年度总结 - Jun's Blog](https://www.junz.org/post/2021_year_summary/)725
 - [2021年度总结 - 咕咕三原小窝](https://xn--ehqz9kbvaa.wang/archives/861.html)849
+- [2021年总结 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/645)432
 - [2021年总结 | ddadaal.me](https://ddadaal.me/articles/summary-for-2021/)400
 - [2021年我最爱的三个产品 - ice @ yaya](https://blog.yaya.pm/2021-fav-products)1109
 - [2021年概览 - Elizen](https://elizen.me/posts/2021/12/2022-happy-new-year/)534
@@ -122,6 +124,7 @@
 - [小日子2021 - 水八口的冥想盆](https://blog.shuiba.co/colourful-days-2021)462
 - [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv)
 - [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/)398
+- [年度报告 - 2021 | 远方 - FlyingSky's Blog](https://blog.fsky7.com/archives/218/)
 - [年终总结 | 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/)918
 - [年终总结2021 | [米随随] s5s5](https://s5s5.me/4029)1130
 - [年终总结：2021年的一些回顾和2022年的一些小规划 - 程沛权 - 养了三只猫](https://chengpeiquan.com/article/2021-year-end-summary.html#%E5%8F%82%E4%B8%8E%E6%89%B6%E8%B4%AB)686
@@ -133,11 +136,13 @@
 - [我的 2021 年总结 - 任峻宏的小站](https://renny.ren/ch/articles/33)775
 - [我的 2021 年投资总结 - 深度投资笔记](https://deepinvest.org/post/2021/12/27/milestone-2021/)705
 - [我的 2021 盘点 — 码志](https://mazhuang.org/2022/01/01/my-2021/)267
+- [我的2021 · ZMonster's Blog](https://www.zmonster.me/2022/01/15/annual-summary-of-2021.html)456
 - [我的2021 · 构建我的被动收入](https://www.bmpi.dev/self/annual-summary/2021/)313
 - [我的2021年 – 胡言胡语](https://husay.cc/4323.html)1035
 - [我的2021年年终总结 - 张浩在路上](https://imzhanghao.com/2022/01/05/summary-2021/)1109
 - [我的2021：生活不容易 - SKYue's Home](https://www.skyue.com/22010323.html)998
 - [我的二零二一 – JiaYin's Life](https://imjiayin.com/4602)861
+- [我走过的2021 – 林海草原](https://lhcy.org/archives/176.html)658
 - [把2021丢进风里，扬着头笑着迈向2022！ - 生活 - 水清无鱼](https://bosir.cn/925.html)1106
 - [抓住2021的尾巴 | 灰常记忆](https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html)1105
 - [按部就班的2021 | 醉乐轩](https://behappy.cc/2021/12/29/2021-final/)1111
