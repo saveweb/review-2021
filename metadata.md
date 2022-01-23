@@ -91,6 +91,7 @@
 [写在2021最后一天 | 公子府](https://www.gongzi.org/hello-2022.html)1104
 [剧变中的2021-一个中年工程师的年终总结 | Mobility](https://lichuanyang.top/posts/2345/)281
 [匆匆忙忙的2021 | LarsCheng](https://www.larscheng.com/2020-summary/)266
+[发掘过往，筑基未来⸺2021 博客年终总结 | Daniel's Blog](https://moecm.com/the-annual-review-of-2021/)957
 [告别 2021 | ChungZH's Blog](https://blog.chungzh.cn/articles/goodbye2021/)379
 [回顾 2021 · Android Performance](https://androidperformance.com/2022/01/03/2021-Review/)1085
 [回顾二零二一 | 三无青年](https://www.duanxiansen.com/979.html)958
@@ -137,4 +138,3 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[发掘过往，筑基未来⸺2021 博客年终总结 | Daniel's Blog](https://moecm.com/the-annual-review-of-2021/)957
