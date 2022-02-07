@@ -19,6 +19,7 @@
 [2021 年末回顧 - 一座島](https://island.shaform.com/zh/2021/12/29/2021-year-in-review/)461
 [2021 年终回顾 – EmacsTalk](https://emacstalk.github.io/post/2021-review/)982
 [2021 年终总结 - Yuexun's Blog](https://www.yuexunjiang.me/blog/2021-summary/)213
+[2021 年终总结 - forecho's Blog](https://blog.forecho.com/review-of-2021.html)84
 [2021 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2021.html)249
 [2021 年终总结 | ObservatoryX 天文觀測站](https://observatoryx.github.io/2021/12/20/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 [2021 年终总结 | OneV's Den](https://onevcat.com/2021/12/2021-final/)116
@@ -140,4 +141,3 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021 年终总结 - forecho's Blog](https://blog.forecho.com/review-of-2021.html)84
