@@ -52,6 +52,7 @@
 - [2021 年终总结 | 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html)360
 - [2021 年终总结-JackLee](https://jacklee.club/%E6%80%BB%E7%BB%93/2021-12-31-2021%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html)
 - [2021 年读书记录 | Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/)243
+- [2021 总结 - EulerianMoe](https://eulerian.xyz/misc/2022/01/01/2021review.html)1214
 - [2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
 - [2021 总结 | 犀利豆的博客](https://xilidou.com/2022/01/01/2021/)172
 - [2021 总结 – 桑弧蓬矢射四方 – iphyer's Blog Website](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
