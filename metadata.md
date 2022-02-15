@@ -142,3 +142,4 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[2021年度总结——未来与过去的相交点 - CronfoxLabs](https://cronfox.2434.me/article/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94%E6%9C%AA%E6%9D%A5%E4%B8%8E%E8%BF%87%E5%8E%BB%E7%9A%84%E7%9B%B8%E4%BA%A4%E7%82%B9)
