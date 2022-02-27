@@ -5,7 +5,7 @@
 [2021 – 2022 跨年博客 – Fatesinger](https://fatesinger.com/100710)1107
 [2021 岁末总结 - 苏洋博客](https://soulteary.com/2021/12/31/2021-year-end-summary.html)485
 [2021 年个人总结 · 唐巧的博客](https://blog.devtang.com/2022/01/01/2021-summary/)115
-[2021 年年终总结 - Ryan4yin's Space](https://ryan4yin.space/posts/2021-summary/)1121
+[2021 年年终总结 - This Cute World](https://thiscute.world/posts/2021-summary/)1121
 [2021 年年终总结 | 白宦成](https://www.ixiqin.com/2021/12/2021-year-end-summary/)150
 [2021 年度总结 - Battle Le](https://battlele.com/2021-review/)548
 [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/)429
@@ -87,6 +87,7 @@
 [二零二一年终总结 - 吕大卫的官方网站](https://lvdawei.com/post/2021-summary/)50
 [二零二一年，过眼云烟 – 红灯博客](http://www.hdgogogo.com/4159)1102
 [人生浪费指南 | 2021年终总结 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/ren-sheng-lang-fei-zhi-nan-|-2021nian-zhong-zong-jie)1127
+[过好每一个当下 | 2021年终总结2.0 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/guo-hao-mei-yi-ge-dang-xia-%7C-2021nian-zhong-zong-jie-2.0)1127
 [你好 2022(2021 年终总结) - Jiajun的编程随想](https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html)146
 [你好，这是我的2021 - 梦幻辰风](https://www.mhcf.net/1143.html)1128
 [再见 2021 | 迷茫且执着](https://ek1ng.com/2022/01/18/%E5%86%8D%E8%A7%812021_%E8%BF%B7%E8%8C%AB%E4%B8%94%E6%89%A7%E7%9D%80/)1143
@@ -144,3 +145,21 @@
 [请回答 二〇二一 | 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/)689
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
+[算是一个陈述句流水帐的年终总结吧 | Just for Life.](https://muyuuuu.github.io/2022/02/04/2021/)1230
+[2021 年年鉴 | 卡瓦邦噶！](https://www.kawabangga.com/posts/4626)991
+[【随记 #2】一半的年终总结？2021，本心如一。 – 一叶知秋](https://blog.rain.cx/diary/essay-2-half-summary-of-2021/)1222
+[我的 2021 - 忙碌但并不充实 - 保罗的小宇宙](https://paugram.com/essay/bye-2021.html)275
+[2021 | 青箬笠](https://qingruoli.com/1941.html)833
+[2021年终总结 | 乔克叔叔的床边故事](https://lifeodyssey.github.io/posts/a23e5172.html)1192
+[我的2021年终总结 - 黑羽的个人博客](https://blog.thetbw.xyz/archives/%E6%88%91%E7%9A%842021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)1181
+[2021数码消费年终总结 - Eason Yang's Blog](https://easonyang.com/posts/2021-digital-consumption-review/)944
+[半年毕业 半年工作 我的2021年度总结 | 思考问题的熊](https://kaopubear.top/blog/2022-02-02-2021review/)734
+[我的2021 - Thinking Null](https://awsl.blog/2022/2021)682
+[一万零一种热爱——我的二零二一年 – DGideas' Blog](https://dgideas.net/2022/my-2021/)1003
+[年终总结：真正告别2021 - Asnull](https://blog.lipux.cn/archives/331.html)20
+[[总结] 对过去一年的总结 - Asnull](https://blog.lipux.cn/archives/273.html)20
+[闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
+[二〇二一年终总结 | Dawner](https://dawner.top/posts/year-end-summary-2021/)373
+[二零二一 | 明远的自留地](https://mayandev.top/2022/01/24/2021/2021-year-end/)708
+[2021 路在脚下 – KSkun's Blog](https://ksmeow.moe/2021-forwarding-on-the-way/)720
+[2021 年终总结 | Nicksxs's Blog](https://nicksxs.me/2022/01/22/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)153
