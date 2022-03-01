@@ -78,7 +78,6 @@
 [920.2021年的最后一天 - wys.me](https://www.wys.me/920.html)1027
 [Debug客栈 2021 年度总结 - Debug客栈](https://www.debuginn.cn/7284.html)88
 [Goodbye, My 2021 | MlgmXyysd 的猫窝](https://www.neko.ink/2021/12/31/goodbye-my-2021/)1126
-[Hello NEW BPM 2022 – 奶冰の冷藏室](https://milkice.me/2022/01/01/2021-yearly-summanry/)1118
 [Last day of 2021 | Tianke Youke](http://jyzhu.top/2021/12/31/Last-day-of-2021/)200
 [Last day of 2021 | Tianke Youke](https://jyzhu.top/Last-day-of-2021/)200
 [Life Sailor » 2021我最大的收获](https://www.lifesailor.me/archives/2794.html)876
