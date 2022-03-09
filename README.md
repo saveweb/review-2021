@@ -81,6 +81,7 @@
 - [2021年的最后一篇文章 - 加菲猫的创客工坊](https://www.gaficat.com/posts/28ddd435.html)235
 - [2021年程序人生 | 忘忧的小站](https://wangyou233.wang/archives/75)1067
 - [2021年终总结 - @Lenciel](https://lenciel.com/2021/12/last-day-in-2021/)316
+- [2021年终总结 - CrownDaisy丨茼蒿](https://crowndaisy.com/2021-d9be976f33ec4d7087759fa94297148a)无
 - [2021年终总结 - Joe’s Blog](https://hijiangtao.github.io/2021/12/29/Letter-to-2021/)269
 - [2021年终总结 - zu1k](https://lgf.im/posts/thinking/2021/)423
 - [2021年终总结 - 乱谈府](https://laffitto.xyz/archives/2021-nian-zhong-zong-jie)905
