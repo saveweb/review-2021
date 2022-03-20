@@ -12,6 +12,7 @@
 [2021 年度总结 - Battle Le](https://battlele.com/2021-review/)548
 [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/)429
 [2021 年度总结 - 漩涡的博客](https://xuanwo.io/2021/11-2021-review/)1101
+[2021 年度总结 | Lufs's Blog](https://blog.isteed.cc/post/2021-summary/)1257
 [2021 年度总结 | mokeyjay - 超能小紫](https://www.mokeyjay.com/archives/3085)779
 [2021 年度记录 | YeungYeah 的乱写地](https://scottyeung.top/2022/record-of-2021/)265
 [2021 年总结 | 吴润写字的地方](http://www.wu.run/2021/12/31/2021-summary/)1018
@@ -164,4 +165,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021 年度总结 | Lufs's Blog](https://blog.isteed.cc/post/2021-summary/)1257
