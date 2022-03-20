@@ -63,6 +63,7 @@
 [2021年终总结 - Joe’s Blog](https://hijiangtao.github.io/2021/12/29/Letter-to-2021/)269
 [2021年终总结 - zu1k](https://lgf.im/posts/thinking/2021/)423
 [2021年终总结 - 乱谈府](https://laffitto.xyz/archives/2021-nian-zhong-zong-jie)905
+[2021年终总结 | Krypton's Blog](https://blog.2333332.xyz/2022/03/15/2022-03-15-review-2022/)
 [2021年终总结 | KuangjuX(狂且)](http://blog.kuangjux.top/2022/01/11/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)716
 [2021年终总结 | 乔克叔叔的床边故事](https://lifeodyssey.github.io/posts/a23e5172.html)1192
 [2021年终总结 | 四公子的剑](https://www.965.one/2021/12/30/2021year-end-summary/)238
@@ -165,4 +166,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021年终总结 | Krypton's Blog](https://blog.2333332.xyz/2022/03/15/2022-03-15-review-2022/)
