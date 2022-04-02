@@ -74,6 +74,7 @@
 - [2021年度关键词总结：磨练 - 笨方法学写作](https://www.cnfeat.com/blog/2022/01/10/letter2021/)57
 - [2021年度总结 - Jun's Blog](https://www.junz.org/post/2021_year_summary/)725
 - [2021年度总结 - 咕咕三原小窝](https://xn--ehqz9kbvaa.wang/archives/861.html)849
+- [2021年度总结 | Bboysoul's Blog](https://www.bboy.app/2022/01/23/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/)760
 - [2021年度总结——未来与过去的相交点 - CronfoxLabs](https://cronfox.2434.me/article/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94%E6%9C%AA%E6%9D%A5%E4%B8%8E%E8%BF%87%E5%8E%BB%E7%9A%84%E7%9B%B8%E4%BA%A4%E7%82%B9)
 - [2021年总结 - luozhiyun`s Blog](https://www.luozhiyun.com/archives/645)432
 - [2021年总结 | ddadaal.me](https://ddadaal.me/articles/summary-for-2021/)400
