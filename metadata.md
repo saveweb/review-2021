@@ -134,6 +134,7 @@
 [我的 2021 - 忙碌但并不充实 - 保罗的小宇宙](https://paugram.com/essay/bye-2021.html)275
 [我的 2021 — 251's Blog.](https://blog.251.sh/oh-my-2021)552
 [我的 2021 年总结 - 任峻宏的小站](https://renny.ren/ch/articles/33)775
+[我的 2021 年总结 | Yindongliang](https://yindongliang.com/posts/review-2021/#%E5%90%8E%E8%AE%B0)1278
 [我的 2021 年投资总结 - 深度投资笔记](https://deepinvest.org/post/2021/12/27/milestone-2021/)705
 [我的 2021 盘点 — 码志](https://mazhuang.org/2022/01/01/my-2021/)267
 [我的2021 - Thinking Null](https://awsl.blog/2022/2021)682
@@ -167,4 +168,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[我的 2021 年总结 | Yindongliang](https://yindongliang.com/posts/review-2021/#%E5%90%8E%E8%AE%B0)1278
