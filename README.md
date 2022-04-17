@@ -49,6 +49,7 @@
 - [2021 年终总结 - Yuexun's Blog](https://www.yuexunjiang.me/blog/2021-summary/)213
 - [2021 年终总结 - forecho's Blog](https://blog.forecho.com/review-of-2021.html)92
 - [2021 年终总结 - 二愣的闲谈杂鱼](https://godruoyi.com/posts/review-2021)1242
+- [2021 年终总结 - 我叫尤加利](https://youjiali1995.github.io/essay/2021-summary/)1301
 - [2021 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2021.html)249
 - [2021 年终总结 | Nicksxs's Blog](https://nicksxs.me/2022/01/22/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)153
 - [2021 年终总结 | ObservatoryX 天文觀測站](https://observatoryx.github.io/2021/12/20/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
