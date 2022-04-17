@@ -4,6 +4,7 @@
 [2021 · 抉择、未知、迷茫、恐惧 - 静かな森](https://innei.ren/notes/106)286
 [2021 – 2022 – 非理勿试](https://www.ntiy.com/1681.html)1039
 [2021 – 2022 跨年博客 – Fatesinger](https://fatesinger.com/100710)1107
+[2021 世界终结前一天](https://freemind.pluskid.org/misc/2021-summary/)1300
 [2021 岁末总结 - 苏洋博客](https://soulteary.com/2021/12/31/2021-year-end-summary.html)485
 [2021 年个人总结 · 唐巧的博客](https://blog.devtang.com/2022/01/01/2021-summary/)115
 [2021 年年终总结 - This Cute World](https://thiscute.world/posts/2021-summary/)1121
@@ -168,4 +169,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021 世界终结前一天](https://freemind.pluskid.org/misc/2021-summary/)1300
