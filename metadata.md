@@ -38,6 +38,7 @@
 [2021 总结 | 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
 [2021 总结 | 犀利豆的博客](https://xilidou.com/2022/01/01/2021/)172
 [2021 总结 – 桑弧蓬矢射四方 – iphyer's Blog Website](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/)224
+[2021 总结与 2022 计划 | 小土刀 2.0](https://wdxmzy.com/pastfuture/year2021/2021/12/31/)暂无
 [2021 我的年终总结 - 在时空的折跃门前](https://lab.imgb.space/post/2021-on-the-portal)908
 [2021 节点：赶不上变化的计划 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/node-2021/)32
 [2021 路在脚下 – KSkun's Blog](https://ksmeow.moe/2021-forwarding-on-the-way/)720
@@ -169,4 +170,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021 总结与 2022 计划 | 小土刀 2.0](https://wdxmzy.com/pastfuture/year2021/2021/12/31/)暂无
