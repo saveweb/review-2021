@@ -141,6 +141,7 @@
 [我的 2021 年投资总结 - 深度投资笔记](https://deepinvest.org/post/2021/12/27/milestone-2021/)705
 [我的 2021 盘点 — 码志](https://mazhuang.org/2022/01/01/my-2021/)267
 [我的2021 - Thinking Null](https://awsl.blog/2022/2021)682
+[我的2021 - 后端技术杂谈](https://www.rowkey.cn/blog/2022/02/13/my2021/)45
 [我的2021 · ZMonster's Blog](https://www.zmonster.me/2022/01/15/annual-summary-of-2021.html)456
 [我的2021 · 构建我的被动收入](https://www.bmpi.dev/self/annual-summary/2021/)313
 [我的2021年 – 胡言胡语](https://husay.cc/4323.html)1035
@@ -171,4 +172,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[我的2021 - 后端技术杂谈](https://www.rowkey.cn/blog/2022/02/13/my2021/)45
