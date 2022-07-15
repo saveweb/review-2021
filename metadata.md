@@ -72,6 +72,7 @@
 [2021年终总结 | KuangjuX(狂且)](http://blog.kuangjux.top/2022/01/11/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)716
 [2021年终总结 | 乔克叔叔的床边故事](https://lifeodyssey.github.io/posts/a23e5172.html)1192
 [2021年终总结 | 四公子的剑](https://www.965.one/2021/12/30/2021year-end-summary/)238
+[2021年终总结 | 小游网](https://xiaoyou66.com/archives/2695/)1411
 [2021年终总结 – Frank's Weblog](https://nyan.im/p/2021-year-in-review)735
 [2021年终总结 – yearliny](https://yearliny.com/2021-annual-personal-summary/)1116
 [2021年终总结，向着2022前进 | 屹铭说](https://www.iccat.cn/2022/01/08/newyear.html)
@@ -173,4 +174,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021年终总结 | 小游网](https://xiaoyou66.com/archives/2695/)1411
