@@ -137,6 +137,7 @@
 [我们该如何去解释这疯狂的一年？](https://feizhaojun.com/?p=3360)404
 [我的 2021 - Panda Home](https://old-panda.com/2021/12/31/my-2021/?utm_source=rss&utm_medium=rss&utm_campaign=my-2021)214
 [我的 2021 - 忙碌但并不充实 - 保罗的小宇宙](https://paugram.com/essay/bye-2021.html)275
+[我的 2021 – Blanboom](https://blanboom.org/2022/my-2021/)457
 [我的 2021 — 251's Blog.](https://blog.251.sh/oh-my-2021)552
 [我的 2021 年总结 - 任峻宏的小站](https://renny.ren/ch/articles/33)775
 [我的 2021 年总结 | Yindongliang](https://yindongliang.com/posts/review-2021/)1278
@@ -175,4 +176,3 @@
 [逝去的2021 | iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 | 大破进击](https://jesor.me/2021/intermezzo/)1036
-[我的 2021 – Blanboom](https://blanboom.org/2022/my-2021/)457

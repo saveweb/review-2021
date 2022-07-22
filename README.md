@@ -161,6 +161,7 @@
 - [我们该如何去解释这疯狂的一年？](https://feizhaojun.com/?p=3360)404
 - [我的 2021 - Panda Home](https://old-panda.com/2021/12/31/my-2021/?utm_source=rss&utm_medium=rss&utm_campaign=my-2021)214
 - [我的 2021 - 忙碌但并不充实 - 保罗的小宇宙](https://paugram.com/essay/bye-2021.html)275
+- [我的 2021 – Blanboom](https://blanboom.org/2022/my-2021/)457
 - [我的 2021 — 251's Blog.](https://blog.251.sh/oh-my-2021)552
 - [我的 2021 年总结 - 任峻宏的小站](https://renny.ren/ch/articles/33)775
 - [我的 2021 年总结 | Yindongliang](https://yindongliang.com/posts/review-2021/)1278
