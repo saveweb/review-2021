@@ -110,6 +110,7 @@
 - [2021数码消费年终总结 - Eason Yang's Blog](https://easonyang.com/posts/2021-digital-consumption-review/)944
 - [2021，再见；2022，你来了：生活的主动性 - 纬八路生活随笔集](http://www.weibalu.com/?p=4015)1103
 - [2022年新博客第一篇文暨个人2021年总结 - Aicsukの世界](https://www.aicsuk.net/liferecord/21zongjoe.html)512
+- [2022，会是一个新的开始吗 - Project RC](https://stdrc.cc/post/2022/01/31/2022-new-beginning/)1527
 - [920.2021年的最后一天 - wys.me](https://www.wys.me/920.html)1027
 - [Debug客栈 2021 年度总结 - Debug客栈](https://www.debuginn.cn/7284.html)88
 - [Goodbye, My 2021 - MlgmXyysd 的猫窝](https://www.neko.ink/2021/12/31/goodbye-my-2021/)1126
