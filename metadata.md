@@ -177,3 +177,4 @@
 [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/)1036
+[2022，会是一个新的开始吗 - Project RC](https://stdrc.cc/post/2022/01/31/2022-new-beginning/)1527
