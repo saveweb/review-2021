@@ -1,3 +1,4 @@
+[2021 - gq's blog](https://zgq.ink/2021-summary)1529
 [2021 - 青箬笠](https://qingruoli.com/1941.html)833
 [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html)403
 [2021 « bang’s blog](http://blog.cnbang.net/living/3739/)128
@@ -178,4 +179,3 @@
 [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/)1036
-[2021 - gq's blog](https://zgq.ink/2021-summary)1529
