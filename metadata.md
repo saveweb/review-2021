@@ -151,6 +151,7 @@
 [我的2021 - 后端技术杂谈](https://www.rowkey.cn/blog/2022/02/13/my2021/)45
 [我的2021 · ZMonster's Blog](https://www.zmonster.me/2022/01/15/annual-summary-of-2021.html)456
 [我的2021 · 构建我的被动收入](https://www.bmpi.dev/self/annual-summary/2021/)313
+[我的2021年 | 二丫讲梵](https://wiki.eryajf.net/pages/008aea/)
 [我的2021年 – 胡言胡语](https://husay.cc/4323.html)1035
 [我的2021年年终总结 - 张浩在路上](https://imzhanghao.com/2022/01/05/summary-2021/)1109
 [我的2021年终总结 - 黑羽的个人博客](https://blog.thetbw.xyz/archives/%E6%88%91%E7%9A%842021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)1181
@@ -180,4 +181,3 @@
 [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)65
 [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/)559
 [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/)1036
-[我的2021年 | 二丫讲梵](https://wiki.eryajf.net/pages/008aea/)
