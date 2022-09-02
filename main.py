@@ -41,8 +41,9 @@ with open('metadata.md', 'w') as f:
 with open('README.md', 'w') as f:
   for line in lines:
     if flag == 0:
-        f.write(markdown+'\n'+'- '+line+'\n')
+        #f.write(markdown+'\n'+'- '+line+'\n') #Ver1
+        f.write(markdown+'\n'+line+'\n')
         flag = 1
     else:
-        #f.write('- '+line+'\n')
+        #f.write('- '+line+'\n') #Ver1
         f.write(line+'\n')
