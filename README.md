@@ -20,7 +20,7 @@
 [Find Blog👁发现博客](https://t.me/FindBlog)
 
 ---
-| Article | Blog_ID | Entry_ID | IA_Archived |
+| Article | Blog\_ID | Entry\_ID | IA\_Archived |
 | --- | --- | --- | --- |
 | [2021 - 青箬笠](https://qingruoli.com/1941.html) | 833 | 1644679195329091 | [IA](https://web.archive.org/web/20220416065035/https://qingruoli.com/1941.html) |
 | [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html) | 403 |
