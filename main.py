@@ -44,4 +44,5 @@ with open('README.md', 'w') as f:
         f.write(markdown+'\n'+'- '+line+'\n')
         flag = 1
     else:
-        f.write('- '+line+'\n')
+        #f.write('- '+line+'\n')
+        f.write(line+'\n')
