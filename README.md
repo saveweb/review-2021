@@ -22,7 +22,7 @@
 ---
 | Article | Blog_ID | Entry_ID | IA_Archived |
 | --- | --- | --- | --- |
-| [2021 - 青箬笠](https://qingruoli.com/1941.html) | 833 |
+| [2021 - 青箬笠](https://qingruoli.com/1941.html) | 833 | 1644679195329091 | [IA](https://web.archive.org/web/20220416065035/https://qingruoli.com/1941.html) |
 | [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html) | 403 |
 | [2021 « bang’s blog](http://blog.cnbang.net/living/3739/) | 128 |
 | [2021 · 抉择、未知、迷茫、恐惧 - 静かな森](https://innei.ren/notes/106) | 286 |
