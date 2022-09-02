@@ -25,7 +25,6 @@
 - [2021 - gq's blog](https://zgq.ink/2021-summary)1529
 - [2021 - 青箬笠](https://qingruoli.com/1941.html)833
 - [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html)403
-- [2021 « bang’s blog](http://blog.cnbang.net/living/3739/)128
 - [2021 « bang’s blog](https://blog.cnbang.net/living/3739/)1537
 - [2021 · 抉择、未知、迷茫、恐惧 - 静かな森](https://innei.ren/notes/106)286
 - [2021 – 2022 – 非理勿试](https://www.ntiy.com/1681.html)1039
