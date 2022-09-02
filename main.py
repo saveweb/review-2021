@@ -23,8 +23,8 @@ markdown = """# 2021年终总结
 [Find Blog👁发现博客](https://t.me/FindBlog)
 
 ---
-
-"""
+| Article | Blog_ID | Entry_ID | IA_Archived |
+| --- | --- | --- | --- |"""
 
 with open('metadata.md', 'r') as f:
   file = f.read()
