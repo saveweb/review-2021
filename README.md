@@ -22,8 +22,6 @@
 ---
 
 
-- [2021 - gq's blog](https://zgq.ink/2021-summary)1529
-- [2021 - 青箬笠](https://qingruoli.com/1941.html)833
 - [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html)403
 - [2021 « bang’s blog](http://blog.cnbang.net/living/3739/)128
 - [2021 « bang’s blog](https://blog.cnbang.net/living/3739/)1537
