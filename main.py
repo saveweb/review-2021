@@ -23,7 +23,7 @@ markdown = """# 2021年终总结
 [Find Blog👁发现博客](https://t.me/FindBlog)
 
 ---
-| Article | Blog_ID | Entry_ID | IA_Archived |
+| Article | Blog\_ID | Entry\_ID | IA\_Archived |
 | --- | --- | --- | --- |"""
 
 with open('metadata.md', 'r') as f:
