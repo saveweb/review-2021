@@ -26,8 +26,8 @@ markdown = """# 2021年终总结
 
 ---
 
-| Article | Blog\_ID | Entry\_ID | IA\_Archived |
-| --- | --- | --- | --- |"""
+| Article | Blog\_ID | IA\_Archived |
+| --- | --- | --- |"""
 
 with open('metadata.md', 'r') as f:
   file = f.read()
