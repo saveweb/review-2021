@@ -182,3 +182,4 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
+| [写在2021年年底的一些废话 \| Revincx的小破站](https://blog.revincx.icu/posts/at-the-ending-of-2021/) | 1352 | [IA](https://web.archive.org/web/20220905091142/https://blog.revincx.icu/posts/at-the-ending-of-2021/) |
