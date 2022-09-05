@@ -150,6 +150,7 @@
 | [半年毕业 半年工作 我的2021年度总结 - 思考问题的熊](https://kaopubear.top/blog/2022-02-02-2021review/) | 734 | |
 | [发掘过往，筑基未来⸺2021 博客年终总结 - Daniel's Blog](https://moecm.com/the-annual-review-of-2021/) | 957 | |
 | [告别 2021 - ChungZH's Blog](https://blog.chungzh.cn/articles/goodbye2021/) | 379 | |
+| [回答2021 - Jinji](https://jinjipang.com/cn/2021/) | 1434 | |
 | [回顾 2021 · Android Performance](https://androidperformance.com/2022/01/03/2021-Review/) | 1085 | |
 | [回顾二零二一 - 三无青年](https://www.duanxiansen.com/979.html) | 958 | |
 | [在远方，这是小谢的2021~ - 小谢在努力](https://www.xxc520.cn/archives/27/) | 1129 | |
