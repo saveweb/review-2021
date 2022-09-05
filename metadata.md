@@ -130,6 +130,7 @@
 | [在远方，这是小谢的2021~ - 小谢在努力](https://www.xxc520.cn/archives/27/) | 1129 | |
 | [夜航船——2021年终总结 - 薇拉航线](https://www.zuozuovera.com/archives/1774/) | 1138 | |
 | [好久不见，又是新年 - 见字如面](https://hiwannz.com/archives/672) | 179 | |
+| [孑然一身的 2021 \| Inoki in the world](https://blog.inoki.cc/2022/02/08/My-2021/) | 1555 | [IA](https://web.archive.org/web/20220905094130/https://blog.inoki.cc/2022/02/08/My-2021/) |
 | [小日子2021 - 水八口的冥想盆](https://blog.shuiba.co/colourful-days-2021) | 462 | |
 | [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv) | 暂无 | |
 | [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/) | 398 | |
@@ -183,4 +184,3 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
-| [孑然一身的 2021 \| Inoki in the world](https://blog.inoki.cc/2022/02/08/My-2021/) | 1555 | [IA](https://web.archive.org/web/20220905094130/https://blog.inoki.cc/2022/02/08/My-2021/) |
