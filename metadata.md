@@ -183,3 +183,4 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
+| [孑然一身的 2021 \| Inoki in the world](https://blog.inoki.cc/2022/02/08/My-2021/) | 1555 | [IA](https://web.archive.org/web/20220905094130/https://blog.inoki.cc/2022/02/08/My-2021/) |
