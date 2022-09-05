@@ -32,6 +32,7 @@
 | [2021 年终总结 - Vigorous Pro](https://www.wevg.org/archives/bye-2021/) | 1115 | |
 | [2021 年终总结 - Yuexun's Blog](https://www.yuexunjiang.me/blog/2021-summary/) | 213 | |
 | [2021 年终总结 - forecho's Blog](https://blog.forecho.com/review-of-2021.html) | 92 | |
+| [2021 年终总结 - sunby’s blog](https://sunby.github.io/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2021/12/31/2021_summary.html#disqus_thread) | 1557 | [IA](https://web.archive.org/web/20220905103347/https://sunby.github.io/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2021/12/31/2021_summary.html) |
 | [2021 年终总结 - 二愣的闲谈杂鱼](https://godruoyi.com/posts/review-2021) | 1242 | |
 | [2021 年终总结 - 我叫尤加利](https://youjiali1995.github.io/essay/2021-summary/) | 1301 | |
 | [2021 年终总结 - 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html) | 360 | |
@@ -70,6 +71,7 @@
 | [2021年终总结 - Joe’s Blog](https://hijiangtao.github.io/2021/12/29/Letter-to-2021/) | 269 | |
 | [2021年终总结 - Krypton's Blog](https://blog.2333332.xyz/2022/03/15/2022-03-15-review-2022/) | 549 | |
 | [2021年终总结 - KuangjuX(狂且)](http://blog.kuangjux.top/2022/01/11/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 716 | |
+| [2021年终总结 - Soar's Nest](https://www.soardev.com/blog/?p=301) | 1558 | [IA](https://web.archive.org/web/20220905103616/https://www.soardev.com/blog/?p=301) |
 | [2021年终总结 - zu1k](https://lgf.im/posts/thinking/2021/) | 423 | |
 | [2021年终总结 - 乔克叔叔的床边故事](https://lifeodyssey.github.io/posts/a23e5172.html) | 1192 | |
 | [2021年终总结 - 乱谈府](https://laffitto.xyz/archives/2021-nian-zhong-zong-jie) | 905 | |
@@ -100,6 +102,7 @@
 | [[总结] 对过去一年的总结 - Asnull](https://blog.lipux.cn/archives/273.html) | 20 | |
 | [[青空之蓝-2021] - 远望 - 青空之蓝](https://blog.ixk.me/post/my-2021-year-end-summary) | 228 | |
 | [⏳请回答2021 - 柳十七的小宇宙](https://liushiqi.xyz/zawen/134.html) | 545 | |
+| [【2021年年终总结】世界中的屋檐与瓦片 – 山野平原居茶馆](http://lm.tanuki.moe/2022/02/%E4%B8%96%E7%95%8C%E4%B8%AD%E7%9A%84%E5%B1%8B%E6%AA%90%E4%B8%8E%E7%93%A6%E7%89%87%E3%80%902021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91/) | 1559 | [IA](https://web.archive.org/web/20220905103917/http://lm.tanuki.moe/2022/02/%E4%B8%96%E7%95%8C%E4%B8%AD%E7%9A%84%E5%B1%8B%E6%AA%90%E4%B8%8E%E7%93%A6%E7%89%87%E3%80%902021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91/) |
 | [【随记 #2】一半的年终总结？2021，本心如一。 – 一叶知秋](https://blog.rain.cx/diary/essay-2-half-summary-of-2021/) | 1222 | |
 | [一万零一种热爱——我的二零二一年 – DGideas' Blog](https://dgideas.net/2022/my-2021/) | 1003 | |
 | [一个普通程序员的2021 ｜ George's Blog](https://georgech2.github.io/#/posts/8) | 暂无 | |
@@ -150,6 +153,7 @@
 | [我的 2021 年总结 - Yindongliang](https://yindongliang.com/posts/review-2021/) | 1278 | |
 | [我的 2021 年总结 - 任峻宏的小站](https://renny.ren/ch/articles/33) | 775 | |
 | [我的 2021 年投资总结 - 深度投资笔记](https://deepinvest.org/post/2021/12/27/milestone-2021/) | 705 | |
+| [我的 2021 年终总结 - polarisxu](https://polarisxu.studygolang.com/posts/talk/2021-summary/) | 1556 | [IA](https://web.archive.org/web/20220819213132/https://polarisxu.studygolang.com/posts/talk/2021-summary/) |
 | [我的 2021 盘点 — 码志](https://mazhuang.org/2022/01/01/my-2021/) | 267 | |
 | [我的2021 - Thinking Null](https://awsl.blog/2022/2021) | 682 | |
 | [我的2021 - 后端技术杂谈](https://www.rowkey.cn/blog/2022/02/13/my2021/) | 45 | |
@@ -185,7 +189,3 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
-| [我的 2021 年终总结 - polarisxu](https://polarisxu.studygolang.com/posts/talk/2021-summary/) | 1556 | [IA](https://web.archive.org/web/20220819213132/https://polarisxu.studygolang.com/posts/talk/2021-summary/) |
-| [2021 年终总结 - sunby’s blog](https://sunby.github.io/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2021/12/31/2021_summary.html#disqus_thread) | 1557 | [IA](https://web.archive.org/web/20220905103347/https://sunby.github.io/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2021/12/31/2021_summary.html) |
-| [2021年终总结 - Soar's Nest](https://www.soardev.com/blog/?p=301) | 1558 | [IA](https://web.archive.org/web/20220905103616/https://www.soardev.com/blog/?p=301) |
-| [【2021年年终总结】世界中的屋檐与瓦片 – 山野平原居茶馆](http://lm.tanuki.moe/2022/02/%E4%B8%96%E7%95%8C%E4%B8%AD%E7%9A%84%E5%B1%8B%E6%AA%90%E4%B8%8E%E7%93%A6%E7%89%87%E3%80%902021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91/) | 1559 | [IA](https://web.archive.org/web/20220905103917/http://lm.tanuki.moe/2022/02/%E4%B8%96%E7%95%8C%E4%B8%AD%E7%9A%84%E5%B1%8B%E6%AA%90%E4%B8%8E%E7%93%A6%E7%89%87%E3%80%902021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91/) |
