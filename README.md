@@ -38,6 +38,7 @@
 | [2021 年年终总结 - This Cute World](https://thiscute.world/posts/2021-summary/) | 1121 | |
 | [2021 年年终总结 - 白宦成](https://www.ixiqin.com/2021/12/2021-year-end-summary/) | 150 | |
 | [2021 年年鉴 - 卡瓦邦噶！](https://www.kawabangga.com/posts/4626) | 991 | |
+| [2021 年度小结 \| 王子亭的博客](https://jysperm.me/2021/12/summary-of-2021/) | 95 | [IA](https://web.archive.org/web/20220827205406/https://jysperm.me/2021/12/summary-of-2021/)
 | [2021 年度总结 - Battle Le](https://battlele.com/2021-review/) | 548 | |
 | [2021 年度总结 - Lufs's Blog](https://blog.isteed.cc/post/2021-summary/) | 1257 | |
 | [2021 年度总结 - Platform Thinking +](https://pt.plus/2021-year-in-review/) | 429 | |
