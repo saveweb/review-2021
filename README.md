@@ -25,7 +25,7 @@
 
 | Article | Blog\_ID | IA\_Archived |
 | --- | --- | --- |
-| [2021 - gq's blog](https://zgq.ink/posts/2021-summary) | 1529 |
+| [2021 - gq's blog](https://zgq.ink/posts/2021-summary) | 1529 | |
 | [2021 - 青箬笠](https://qingruoli.com/1941.html)<br>#泰山队球迷 #拿到国家奖学金 #三天一顿小烧烤 #博士生的科研与职业感想 #人生 #即将脱单 | 833 | [IA](https://web.archive.org/web/20220416065035/https://qingruoli.com/1941.html) |
 | [2021 Annual Summary - Luyu Huang's Tech Blog](https://luyuhuang.tech/2022/01/01/2021-annual-summary.html)<br>#习惯养成 #加入大公司 #学英语、写博客、刷LeetCode #做DWords2 #去秦皇岛旅游 | 403 | [IA](https://web.archive.org/web/20220715145618/https://luyuhuang.tech/2022/01/01/2021-annual-summary.html) |
 | [2021 « bang’s blog](http://blog.cnbang.net/living/3739/) | 128 | |
