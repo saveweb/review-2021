@@ -85,6 +85,7 @@
 | [2021我成长了🌈 – 幸吾有志](https://www.symbk.cn/life/622/) | 961 | |
 | [2021数码消费年终总结 - Eason Yang's Blog](https://easonyang.com/posts/2021-digital-consumption-review/) | 944 | |
 | [2021，再见；2022，你来了：生活的主动性 - 纬八路生活随笔集](http://www.weibalu.com/?p=4015) | 1103 | |
+| [2021，自渡向前 - Airing 的小屋](https://me.ursb.me/archives/2021.html) | 1441 | [IA](https://web.archive.org/web/20220724034015/https://me.ursb.me/archives/2021.html) |
 | [2022年新博客第一篇文暨个人2021年总结 - Aicsukの世界](https://www.aicsuk.net/liferecord/21zongjoe.html) | 512 | |
 | [2022，会是一个新的开始吗 - Project RC](https://stdrc.cc/post/2022/01/31/2022-new-beginning/) | 1527 | |
 | [920.2021年的最后一天 - wys.me](https://www.wys.me/920.html) | 1027 | |
@@ -179,4 +180,3 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
-| [2021，自渡向前 - Airing 的小屋](https://me.ursb.me/archives/2021.html) | 1441 | [IA](https://web.archive.org/web/20220724034015/https://me.ursb.me/archives/2021.html) |
