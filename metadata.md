@@ -186,3 +186,4 @@
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
 | [我的 2021 年终总结 - polarisxu](https://polarisxu.studygolang.com/posts/talk/2021-summary/) | 1556 | [IA](https://web.archive.org/web/20220819213132/https://polarisxu.studygolang.com/posts/talk/2021-summary/) |
+| [2021 年终总结 - sunby’s blog](https://sunby.github.io/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2021/12/31/2021_summary.html#disqus_thread) | 1557 | [IA](https://web.archive.org/web/20220905103347/https://sunby.github.io/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2021/12/31/2021_summary.html) |
