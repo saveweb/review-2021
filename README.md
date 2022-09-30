@@ -209,7 +209,7 @@
 | [航道，四季与歌：2021 的年度总结 - Rachel's Blog - Rachel030219](https://blog.rachelt.one/articles/2021-2022/) | 897 | |
 | [草草的用废话写完了根本不存在的2021年年终总结 - lijiakaijun](https://blog.lijiakaijun.cyou/posts/64568.html) | 759 | |
 | [薛定喵君的2021年终总结 - 薛定喵君的博客](http://xuedingmiao.com/blog/2021_summary.html) | 暂无 | |
-| [被灰山压垮，然后漂浮——2021年年终总结 – Drawoceans的博客](https://blog.drawoceans.com/myself/562/) | 778 | |
+| [被灰山压垮，然后漂浮——2021年年终总结 – Drawoceans 的博客](https://blog.dort.me/myself/562/) | 778 | |
 | [认真的写完了似乎存在的2021年年度总结 - lijiakaijun](https://blog.lijiakaijun.cyou/posts/33838.html) | 759 | |
 | [请回答 二〇二一 - 叶星优酸乳](https://weiyexing.ml/posts/back-to-2021/) | 689 | |
 | [过好每一个当下 - 2021年终总结2.0 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/guo-hao-mei-yi-ge-dang-xia-%7C-2021nian-zhong-zong-jie-2.0) | 1127 | |
