@@ -50,6 +50,7 @@
 | [2021 年总结和 2022 年计划 - buzhou.blog](https://buzhou.typlog.io/2022jihua) | 1119 | |
 | [2021 年我读过的书 - wzyboy’s blog](https://wzyboy.im/post/1462.html) | 337 | |
 | [2021 年末回顧 - 一座島](https://island.shaform.com/zh/2021/12/29/2021-year-in-review/) | 461 | |
+| [2021 年末总结及 2022 新年快乐！ - Anillc's Blog](https://anillc.cn/2022/01/01/happy-new-year-1/) | 1573 | |
 | [2021 年的总结 - Hi! 上天不?](https://a-wing.top/self/2022/01/01/2021) | 1526 | |
 | [2021 年终回顾 – EmacsTalk](https://emacstalk.github.io/post/2021-review/) | 982 | |
 | [2021 年终总结 - Nicksxs's Blog](https://nicksxs.me/2022/01/22/2021-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 153 | |
