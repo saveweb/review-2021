@@ -103,6 +103,7 @@
 | [[总结] 对过去一年的总结 - Asnull](https://blog.lipux.cn/archives/273.html) | 20 | |
 | [[青空之蓝-2021] - 远望 - 青空之蓝](https://blog.ixk.me/post/my-2021-year-end-summary) | 228 | |
 | [⏳请回答2021 - 柳十七的小宇宙](https://liushiqi.xyz/zawen/134.html) | 545 | |
+| [「2021年终总结」平淡中蓄力 · 习惯中突破 - Frytea](https://www.frytea.com/posts/retrospective/2021/) | 1581 | |
 | [【2021年年终总结】世界中的屋檐与瓦片 – 山野平原居茶馆](http://lm.tanuki.moe/2022/02/%E4%B8%96%E7%95%8C%E4%B8%AD%E7%9A%84%E5%B1%8B%E6%AA%90%E4%B8%8E%E7%93%A6%E7%89%87%E3%80%902021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91/) | 1559 | [IA](https://web.archive.org/web/20220905103917/http://lm.tanuki.moe/2022/02/%E4%B8%96%E7%95%8C%E4%B8%AD%E7%9A%84%E5%B1%8B%E6%AA%90%E4%B8%8E%E7%93%A6%E7%89%87%E3%80%902021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E3%80%91/) |
 | [【随记 #2】一半的年终总结？2021，本心如一。 – 一叶知秋](https://blog.rain.cx/diary/essay-2-half-summary-of-2021/) | 1222 | |
 | [一万零一种热爱——我的二零二一年 – DGideas' Blog](https://dgideas.net/2022/my-2021/) | 1003 | |
@@ -190,4 +191,3 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
-| [「2021年终总结」平淡中蓄力 · 习惯中突破 - Frytea](https://www.frytea.com/posts/retrospective/2021/) | 1581 | |
