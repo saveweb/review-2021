@@ -204,6 +204,7 @@
 | [正月里 - RyujoPad's Blog](https://blog.higuchi.xyz/2022/01/31/2022-1-31/) | 1422 | |
 | [流水账式的2021总结 - 不方思](https://irr.ink/2021/2QBR504/) | 994 | |
 | [珍珠之歌——我的2021总结 - 风与牧歌](https://blog.besscroft.com/articles/2021/summary2021/) | 946 | |
+| [留下了遗憾的 2021 - 怠惰のコエ - imba久期 BLOG](https://imba97.cn/archives/750/) | 1585 | |
 | [留在2021的最后一点文字 - 橘夜庭 - 霂森西 - 桜玲桉](https://musenxi.com/archives/2021-end.html) | 13 | |
 | [算是一个陈述句流水帐的年终总结吧 - Just for Life.](https://muyuuuu.github.io/2022/02/04/2021/) | 1230 | |
 | [胡言乱语2021 - 水八口的冥想盆](https://blog.shuiba.co/crazy-words-2021) | 462 | |
