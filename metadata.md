@@ -191,3 +191,4 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
+| [留下了遗憾的 2021 - 怠惰のコエ - imba久期 BLOG](https://imba97.cn/archives/750/) | 1585 | |
