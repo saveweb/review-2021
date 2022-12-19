@@ -1,6 +1,6 @@
 # 2021年终总结
 
-<!-- 此处待完善 -->
+> 2022 年的年终总结见：[saveweb/review-2022](https://github.com/saveweb/review-2022)
 
 目前已收集190+篇年终总结。数据来源: [『saveweb/rss-list: 独立博客&播客全订阅计划！』](https://github.com/saveweb/rss-list)，持续收集中，部分数据(30篇)同步自[友台：『@FindBlog』](https://t.me/FindBlog/52)。
 
