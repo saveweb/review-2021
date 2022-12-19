@@ -120,6 +120,7 @@
 | [人生浪费指南 - 2021年终总结 - 查令十字街 84 号](https://www.javis.me/post/ri-chang/ren-sheng-lang-fei-zhi-nan-\|-2021nian-zhong-zong-jie) | 1127 | |
 | [你好 2022(2021 年终总结) - Jiajun的编程随想](https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html) | 146 | |
 | [你好，这是我的2021 - 梦幻辰风](https://www.mhcf.net/1143.html) | 1128 | |
+| [保持好奇，继续前行 —— 2021年度总结 - LGiki's Blog](https://lgiki.net/post/2021-review/) | 1583 | |
 | [再见 2021 - 迷茫且执着](https://ek1ng.com/2022/01/18/%E5%86%8D%E8%A7%812021_%E8%BF%B7%E8%8C%AB%E4%B8%94%E6%89%A7%E7%9D%80/) | 1143 | |
 | [再见，2021 —— 我的 2021 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2021/) | 1029 | |
 | [写在 2021 年末](https://caos.me/2021) | 449 | |
@@ -193,4 +194,3 @@
 | [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html) | 65 | |
 | [闲言碎语—年终总结 - DoctorXu](https://xuyisheng.top/2022/) | 559 | |
 | [间奏曲 - 大破进击](https://jesor.me/2021/intermezzo/) | 1036 | |
-| [保持好奇，继续前行 —— 2021年度总结 - LGiki's Blog](https://lgiki.net/post/2021-review/) | 1583 | |
