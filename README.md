@@ -66,6 +66,7 @@
 | [2021 年终总结 - 时光飞逝的一年 - Muyun](https://muyun.work/2021-summary.html) | 360 | |
 | [2021 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2021.html) | 249 | |
 | [2021 年终总结-JackLee](https://jacklee.club/%E6%80%BB%E7%BB%93/2021-12-31-2021%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html) | 暂无 | |
+| [2021 年终总结及 2022 的计划 - rxliuli blog](https://blog.rxliuli.com/p/971404f2f72c429083a614f8ee522237/) | 719 | [IA](https://web.archive.org/web/20221217074724/https://blog.rxliuli.com/p/971404f2f72c429083a614f8ee522237/) |
 | [2021 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2021/12/31/2021-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | |
 | [2021 总结 - EulerianMoe](https://eulerian.xyz/misc/2022/01/01/2021review.html) | 1214 | |
 | [2021 总结 - 桑弧蓬矢射四方](https://iphyer.github.io/blog/2021/12/31/MySummaryOF2021/) | 224 | |
