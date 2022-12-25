@@ -170,7 +170,7 @@
 | [小树的 2021 年终总结](https://www.yuque.com/yeshu/essay/eahurv) | 暂无 | |
 | [属于我的三年·第二年 - 欧雷](https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/) | 398 | |
 | [年度报告 - 2021 - 远方 - FlyingSky's Blog](https://blog.fsky7.com/archives/218/) | 暂无 | |
-| [年终总结 - 回头看看我的 2021 - Zwh's Blog](https://blog.zwh.best/index.php/archives/18/) | 918 | |
+| [年终总结 - 回头看看我的 2021 - Zwh's Blog](https://xlog.zwh.moe/review-2021) | 918 | |
 | [年终总结2021 - [米随随] s5s5](https://s5s5.me/4029) | 1130 | |
 | [年终总结：2021年的一些回顾和2022年的一些小规划 - 程沛权 - 养了三只猫](https://chengpeiquan.com/article/2021-year-end-summary.html#%E5%8F%82%E4%B8%8E%E6%89%B6%E8%B4%AB) | 686 | |
 | [年终总结：真正告别2021 - Asnull](https://blog.lipux.cn/archives/331.html) | 20 | |
