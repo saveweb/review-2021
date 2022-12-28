@@ -82,7 +82,7 @@
 | [2021年终总结 - 晓白博客](https://blog.chs.pub/p/end_of_2021/) | 1369 | |
 | [2021年终总结 – Frank's Weblog](https://nyan.im/p/2021-year-in-review) | 735 | |
 | [2021年终总结 – yearliny](https://yearliny.com/2021-annual-personal-summary/) | 1116 | |
-| [2021年终总结 与 2022新年展望 - YoungForest's blog](https://youngforest.github.io/2021/12/28/2021-summary-and-2022-resolutions/) | 1539 | |
+| [2021年终总结 与 2022新年展望 - YoungForest's blog](https://youngforest.github.io/2021/12/28/2021-summary-and-2022-resolutions/) | 1593 | |
 | [2021年终总结，向着2022前进 - 屹铭说](https://www.iccat.cn/2022/01/08/newyear.html) | 暂无 | |
 | [2021年终总结，继续进步，继续开拓-杨过](https://www.cnblogs.com/gxhao/p/15760426.html) | 暂无 | |
 | [2021年终总结：你所热爱的，就是你的生活 - Easton Man's Blog](https://blog.eastonman.com/blog/2022/01/end-of-year/) | 784 | |
